@@ -42,6 +42,11 @@ li:hover {
     background-repeat: no-repeat;
     height: 80px;   
 }
+
+.titulo {
+    color: #d8d8d8;
+    font-style: italic;
+}
 .presentacion {
     background-color: #d8d8d8;
     border: solid 3px #d8d8d8;
@@ -154,7 +159,7 @@ h3 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-h2 {
+h1 {
     font-size: 2em;
     text-align: center;
 }
